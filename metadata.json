@@ -1,0 +1,6 @@
+{
+  "name": "SeismicMacro",
+  "description": "Seismic Vibrational Knock Pattern Trigger Application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
